@@ -23,6 +23,7 @@ import org.springframework.stereotype.Component;
 
 
 /**
+ * TODO AOP
  * 一个namespace在一次发布中只能允许一个人修改配置
  * 通过数据库lock表来实现
  */
